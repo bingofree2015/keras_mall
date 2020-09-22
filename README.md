@@ -56,9 +56,9 @@ cd keras_mall
 3、安装依赖
 yarn
 
-4、修改配置
-/config/index.js
-![](https://img.kancloud.cn/42/24/4224891c4888ebd69b5ab10b7c38150c_542x429.png)
+4、修改配置文件 /config/index.js
+<img src="https://img.kancloud.cn/42/24/4224891c4888ebd69b5ab10b7c38150c_542x429.png"/>
+
 
 5、启动项目
 yarn start
