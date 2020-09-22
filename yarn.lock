@@ -8217,10 +8217,10 @@ timsort@^0.3.0:
   resolved "https://registry.npm.taobao.org/timsort/download/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tinymce@^5.1.4:
-  version "5.1.4"
-  resolved "https://registry.npm.taobao.org/tinymce/download/tinymce-5.1.4.tgz?cache=0&sync_timestamp=1576036757388&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftinymce%2Fdownload%2Ftinymce-5.1.4.tgz#a45282a68e66d0959bcae19a972f8ae52a358667"
-  integrity sha1-pFKCpo5m0JWbyuGaly+K5So1hmc=
+tinymce@^5.4.1:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.4.1.tgz#4c101e78cbd22c148d6013f7c66eb0cb480723db"
+  integrity sha512-eUjwDVCTSHSnFfpzX5TjTHXsGj5gvPQwzo3RFDF374gfK5voHqcRGojvQnu4NtNW1BAb012/KW1tkXBbUrEveg==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
