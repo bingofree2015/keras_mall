@@ -1,0 +1,19 @@
+{
+    "name": "keras_mall_cms",
+    "script": "npm run dev",
+    "cwd": "./",
+    "watch": [
+        "./src"
+    ],
+    "ignore_watch": [
+        "node_modules",
+        "logs",
+        "public"
+    ],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "error_file": "./logs/keras_mall_cms_err.log",
+    "out_file": "./logs/keras_mall_cms_out.log",
+    "log_date_format": "YYYY-MM-DD HH:mm Z"
+}

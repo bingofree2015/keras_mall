@@ -1,0 +1,56 @@
+{
+    "common": {
+        "home": "首页",
+        "login": "登录",
+        "logout": "退出登录",
+        "myMsg": "我的消息",
+        "config": "系统配置",
+        "backup": "备份",
+        "restore": "还原",
+        "backupRestore": "备份还原",
+        "versionName": "版本名称",
+        "exit": "退出"
+    },
+    "action": {
+        "operation": "操作",
+        "add": "新增",
+        "edit": "编辑",
+        "feedback": "反馈",
+        "delete": "删除",
+        "batchDelete": "批量删除",
+        "search": "查询",
+        "loading": "拼命加载中",
+        "submit": "提交",
+        "comfirm": "确定",
+        "cancel": "取消",
+        "close": "关闭",
+        "reset": "重置",
+        "download": "下载",
+        "pay": "支付",
+        "delivery": "发货",
+        "finished": "完成",
+        "print": "打印",
+        "batchPay": "批量支付",
+        "view": "查看",
+        "refund": "退款",
+        "check": "审核",
+        "editMedia": "编辑图文",
+        "detail": "明细",
+        "qrcode": "二维码",
+        "report": "报表",
+        "design": "设计",
+        "pass":"通过",
+        "reject":"驳回",
+        "coupon": "优惠券",
+        "build": "生成"
+
+    },
+    "sys": {
+        "sysMng": "系统管理",
+        "userMng": "用户管理",
+        "roleMng": "角色管理",
+        "menuMng": "菜单管理",
+        "logMng": "日志管理",
+        "sysMonitor": "系统监控"
+    }
+}
