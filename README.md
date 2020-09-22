@@ -48,7 +48,7 @@ Keras-Mall是基于NodeJS开发电商管理后台，具有统一授权、认证�
 
 #### 安装教程
 
-1、前往Gitee下载页面https://gitee.com/bingofree/keras_mall下载解压到工作目录
+1、前往Gitee下载页面[输入链接说明](https://gitee.com/bingofree/keras_mall)下载解压到工作目录
 
 2、进入项目目录
 cd keras_mall
